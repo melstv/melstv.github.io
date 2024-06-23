@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: Главная
 ---
 
-A Site Starter Materialize Templates for Jekyll.
+Стартовая     страница
